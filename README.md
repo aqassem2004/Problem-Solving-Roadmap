@@ -61,7 +61,7 @@
 
 - DFS : [Muhammad Magdi](https://youtu.be/iJOB2lo39n0?si=IqB76GrCpHd5jwAC)
 
-- BFS : [ICPC Mansoura](https://youtu.be/AuGNPvbfy4A?si=pi4guJAUKYJ-z9Bj) or [Muhammad Magdi BFS only](https://youtu.be/iJOB2lo39n0?si=IqB76GrCpHd5jwAC)
+- BFS : [ICPC Mansoura](https://youtu.be/AuGNPvbfy4A?si=pi4guJAUKYJ-z9Bj) or [Muhammad Magdi](https://youtu.be/iJOB2lo39n0?si=IqB76GrCpHd5jwAC)
 
 - Dynamic Programming recursive will add soon
 
