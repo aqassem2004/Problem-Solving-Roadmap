@@ -4,7 +4,7 @@
 
 ## Roadmap Levels:
 <p align="center">
-    <img width="850" src="image/img1" title="img1"><br />
+    <img width="850" src="image/img1.png" title="img1"><br />
 </p>
 
 🔗 [Beginner](#beginner) 🔗 [Intermediate](#intermediate) 🔗 [Advanced](#advanced)
