@@ -49,7 +49,7 @@
 
 ### Part 1
 
-- Bitmasks  & Iterative Complete Search : [video 1 Muhammad Magdi](https://youtu.be/Q4RA5N8xhh8?si=wMtsJVrbYLfYdpc4) && [video 2 Muhammad Magdi](https://youtu.be/t3W-zCx1OJ8?si=B6akOYcxSFt7q5QW) or
+- Bitmasks  & Iterative Complete Search : [video 1 Muhammad Magdi](https://youtu.be/Q4RA5N8xhh8?si=wMtsJVrbYLfYdpc4) && [video 2 Muhammad Magdi](https://youtu.be/t3W-zCx1OJ8?si=B6akOYcxSFt7q5QW) or [Mahmoud Ayman ](https://www.youtube.com/watch?v=M90Vj7-6Qwo)
 
 - Number Theory part 1 : [Muhammad Magdi](https://youtu.be/heRWrCIQFzQ?si=UQihQvGr58TFO_U1)
 
